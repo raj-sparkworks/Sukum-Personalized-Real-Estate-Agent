@@ -6,7 +6,7 @@ Personalized-Real-Estate-Agent for GenAI Udacity Nano Degree
 Project Introduction: [https://learn.udacity.com/nanodegrees/nd608](https://www.udacity.com/course/generative-ai--nd608)
 Imagine you're a talented developer at "Future Homes Realty", a forward-thinking real estate company. In an industry where personalization is key to customer satisfaction, your company wants to revolutionize how clients interact with real estate listings. The goal is to create a personalized experience for each buyer, making the property search process more engaging and tailored to individual preferences.
 
-## Core Components of "HomeMatch"
+## Core Components of "RealEstate"
 
 ### Understanding Buyer Preferences
 
@@ -15,7 +15,7 @@ Imagine you're a talented developer at "Future Homes Realty", a forward-thinking
 
 ### Integrating with a Vector Database
 
-- Connect "HomeMatch" with a vector database, where all available property listings are stored.
+- Connect "RealEstate" with a vector database, where all available property listings are stored.
 - Utilize vector embeddings to match properties with buyer preferences, focusing on aspects like neighborhood vibes, architectural styles, and proximity to specific amenities.
 
 ### Personalized Listing Description Generation
@@ -50,7 +50,7 @@ This step uses [Anaconda](https://www.anaconda.com/) as the environment manager,
 pip install -r requirements.txt
 ```
 
-4 - Run the [notebook](./notebook.ipynb) file.
+4 - Run the [notebook](./RealEstate.ipynb) file.
 
 **Important**: You need to put your OpenAI key in the first cell to run the notebook.
 
