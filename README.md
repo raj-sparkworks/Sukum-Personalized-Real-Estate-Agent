@@ -32,8 +32,8 @@ Imagine you're a talented developer at "Future Homes Realty", a forward-thinking
 1 - Clone this repositoy
 
 ```bash
-git clone https://github.com/arunchavan89/Personalized-Real-Estate-Agent.git
-cd GAIND-Personalized-Real-Estate-Agent
+git clone https://github.com/raj-sparkworks/Sukum-Personalized-Real-Estate-Agent.git
+cd Sukum-Personalized-Real-Estate-Agent
 ```
 
 2 - Create the virtual environment
